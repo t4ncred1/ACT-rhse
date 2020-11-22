@@ -1,4 +1,4 @@
 [submodule "Ride-Hailing-Service-Emulator"]
 	path = Ride-Hailing-Service-Emulator
 	url = https://github.com/vrt1shjwlkr/Ride-Hailing-Service-Emulator
-        ignore = dirty
+        ignore = all
