@@ -9,6 +9,8 @@ if ! docker container ls -a --format "{{.Names}}" | grep -q rhsec; then
   docker run -d \
     -it \
     --name rhsec \
+    --net=host --env="DISPLAY" \
+    --volume="$HOME/.Xauthority:/root/.Xauthority:rw" \
     --mount type=bind,source=$(pwd)/Ride-Hailing-Service-Emulator,target=/rhse \
     rhse:latest;
 else  
