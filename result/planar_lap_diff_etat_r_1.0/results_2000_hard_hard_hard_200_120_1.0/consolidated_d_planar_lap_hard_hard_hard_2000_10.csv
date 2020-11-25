@@ -1,0 +1,2 @@
+Obfuscation class,avg_real_acc_rate,avg_real_accepted_rides,avg_real_earnings,std_real_earnings,avg_obf_acc_rate,avg_obf_accepted_rides,avg_obf_earnings,std_obf_earnings,rhs_util_d
+1000.0,0.9,2.5416666666666665,64.40749218749998,62.54234062261102,0.8666666666666667,2.0416666666666665,54.41677372685185,45.37141961217802,9.990718460648132
