@@ -1,0 +1,7 @@
+Rider ID,obfuscated_trials,obfuscated_extras,real_trials,obf_ride_complete,real_ride_complete,ride_request_time,obf_time_to_accept,obf_loc time to start ride,real_time_to_accept,real_loc time to start ride,generic_util,RHS_util,real_loc num drivers,real_loc avg_driver_dist,real_acc_rate,real_loc surge,obf_loc num drivers,obf_loc avg_driver_dist,obf_acc_rate,obf_loc surge,obf-real ETA,Privacy Level,Avg min real ETA,Avg min obf ETA,Real accept eta_tolerance,Obf accept eta_tolerance,Real accept_eta,Obf accept_eta,Euclidean QL,Expected Gen QL,Expected Tai QL
+32,8,21,1,1,1,49,73,3222.8,50,573,1000.0,2649.8,4.0,328.075,0.0,1.0,3.0,687.2999999999998,0.0,1.0,768.4,1.4,263.0,602.8000000000001,400,650,263,602.8,3843.7727918098344,0.0001193914456040723,8.230545084136244e-05
+41,8,44,1,1,1,0,45,3458.6,1,530.4,1000.0,2928.2,4.0,294.20000000000005,0.0,1.0,7.0,839.4142857142858,0.0,1.0,883.3,1.4,220.4,628.6,400,650,220.4,628.6,6330.987459819148,8.515990375882028e-05,3.938804677299123e-05
+54,12,11,1,1,1,48,95,4898.6,49,510.1,1000.0,4388.5,4.0,299.0,0.0,1.0,2.0,958.9499999999997,0.0,-1.0,1172.9,1.4,200.1,848.6000000000003,400,850,200.1,848.6,7524.986908535347,6.773180717863664e-05,3.9500538594465344e-05
+"
+
+"
